@@ -9,6 +9,10 @@ Notebooks Needed
 ## Work flow
 - Collected over 100 confusion sound samples 
 - Saved into my Training data folder under a new class name
+### installed jupyternotebook hub to terminal
+- pip install jupyter
+- command line type jupyter notebook
+- running everything from terminal / desktop
 ### In the embed_audio notebook
 - After uploading the target class and site files to volume
 - Change path to match location of files
